@@ -2,7 +2,7 @@
 
 ###### tags: `GitHub`
 
-Use scapy to build packets and lunch attack in local LAN.
+Use scapy to build packets and launch attack in local LAN.
 
 ## Disclaimer
 
@@ -80,6 +80,10 @@ CHECK THE LICENSE BEFORE YOU USE THIS TOOL.
 
 ![](https://i.imgur.com/qbV1Jzn.png)
 
-#### Under attack the Connection in  192.168.1.103 (SmartPhone)
+#### Under attack the Connection in 192.168.1.103 (SmartPhone)
 
 ![](https://i.imgur.com/nYCxaoZ.png)
+
+## Smart Phone Attack
+
+You can use [Termux](https://termux.com/) to launch on a smart phone but need to root first.
