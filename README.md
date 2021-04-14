@@ -12,7 +12,7 @@ CHECK THE LICENSE BEFORE YOU USE THIS TOOL.
 
 ## Necessary Python Packages
 
-[Scapy](https://scapy.readthedocs.io/en/latest)
+[Scapy](https://scapy.readthedocs.io/en/latest) \
 `pip install scapy`
 
 ## Functions
